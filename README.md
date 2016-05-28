@@ -1,3 +1,3 @@
 # canban.ru
 Website project testing (test-cases)  
-New comment 06.05.16
+Project canban.ru is devoted to auto services
